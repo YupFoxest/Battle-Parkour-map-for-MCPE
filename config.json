@@ -1,0 +1,114 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": true,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+        "name": "Dungeon: Triple Towers",
+        "role": "Dungeons: Triple Towers is a dungeon style role-playing map with puzzles, traps, trickery, monster fights, boss fights, and more! This is the first of this (potential) series of my Dungeons maps, and my first completed map (and map posted here).",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/18/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/18/Dungeon_-0Triple-Towers_1606866792.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/18/2.png",
+        "imgcoverdua": "https://kossandroid.comData Android/Minecraft/Bosses/18/1.png/"
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/TtHYHFzXJ3EANPXmnjipDUseYBT4y8tMRdmb1D_5NJ-C6cr1RTuFcFOzzEMyjQ39RN3IRRbt8P_nEOsZOteeDg",
+    "view_skin": "https://lh3.googleusercontent.com/z0pl4yVoddWvgwU08HnQ-cflGlg-gLXuoend3ASQhRl8x-UwROWAEaQZ1hqcDiFkd3pN_s-OKydLkjFdKjipuc0"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/qpUn-qRHWXJW4GytkKMMIFR0amsBhj-ScLn4dYJGmIHrnumYIRtvWf6Wmu4Twal6OoxVzVjpcQQZp1GJxSyc0X_YBoD0a2BJSQ",
+    "view_skin": "https://lh3.googleusercontent.com/9qnWugAv6kOp9i79qSyFH5XnCGa0aBMRicherohGQZJtyZ6iGr9l57BShhfQBEQkmXQro3Q_oaerMKfcrqXzZsi-4g6BfsLxHafD"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/ElwMZ-WDGTznpjFXQK0oA6vaSWLbicF2-TlHJ8ztdLnek-iNfYKbc7W9LZG1CaiJ5OpCshQrFXl5tcBPV2JvQ5PS4Asd2-dhxgY",
+    "view_skin": "https://lh3.googleusercontent.com/3goU31xEiXWfDR1ON3uqWzn04a7GpniveC92Dj85EKlA_TWH0JsudSK6sIyU91yoim3MxOaolsRynx9TNKtv349zpT5yUTHe80k"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/BSP7ZtHnhA-3Zo5t1atDAZ6Q0nM5OGnk3rleFJHL1oCoYjzX9qtZ_7k3e1ik41bkorS7iLzN7DwzIDNJoniLIh0",
+    "view_skin": "https://lh3.googleusercontent.com/M75Z1QF4sFU8Q3_Df_4Te4Osh3BIwh5igHsw1lwbL50OO_j-0a7WChMAd4kyxJT1z71WUCeJRVLYVL8BrStEVg"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/33XZ6-o4_dn8jANFiYhQ6O7T2rJUIjdboFXc3adOAC2APOFPZ-MhUu3IBF33qq7T4i-0TtUmLOD7odU4DcWIFF_fR1qYVLxndSk",
+    "view_skin": "https://lh3.googleusercontent.com/k_hmlMDmymlCjepvWVk4YZ3SgELpoJrDhJcJPnQo-yXBWesBV1jNQMWvy3iO7BAlJ86jNfd0x6nBI_lZ77-uCIN9Yst_H7qveKeD"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
