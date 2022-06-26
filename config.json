@@ -8,7 +8,7 @@
       "contact": "https://google.com/",
       
       "addon": false,
-      "maps": true,
+      "maps": false,
       "texture": false,
       "skin": true,
       "more": false,
@@ -45,12 +45,12 @@
   ],
   "Map": [
     {
-        "name": "Dungeon: Triple Towers",
-        "role": "Dungeons: Triple Towers is a dungeon style role-playing map with puzzles, traps, trickery, monster fights, boss fights, and more! This is the first of this (potential) series of my Dungeons maps, and my first completed map (and map posted here).",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/18/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/18/Dungeon_-0Triple-Towers_1606866792.mcworld",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/18/2.png",
-        "imgcoverdua": "https://kossandroid.comData Android/Minecraft/Bosses/18/1.png/"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Texture": [
